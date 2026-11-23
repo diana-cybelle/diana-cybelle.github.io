@@ -1,9 +1,0 @@
-* { box-sizing: border-box; }
-body { margin: 0; padding: 24px; background: #f66dcf; color: #f4f6ff; font-family: Arial, sans-serif; text-align: center; }
-main { max-width: 820px; margin: 0 auto; }
-h1 { margin-bottom: 6px; }
-#sketch-holder { display: flex; justify-content: center; overflow: auto; }
-canvas { max-width: 100%; height: auto !important; border: 1px solid #65729d; }
-p { line-height: 1.6; }
-.formula { display: inline-block; padding: 10px 18px; border: 1px solid #65729d; border-radius: 8px; background: #1b2546; }
-footer { color: #aeb8dc; font-size: 13px; margin-top: 24px; }
